@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385473545559",
+    "project_id": "foss-django-auth",
+    "storage_bucket": "foss-django-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385473545559:android:978bf35b2c99cb3f422a12",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385473545559-8r97bvk0birk2a5ps9cnblmqvm4n4nrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi9_9tUH_wRCYvZngJJFNaekrUxbkSI9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385473545559-8r97bvk0birk2a5ps9cnblmqvm4n4nrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
